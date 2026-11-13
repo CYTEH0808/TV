@@ -28,7 +28,9 @@
     "undici": "^6.21.1",
     "zustand": "^5.0.2"
   },
-  "devDependencies": {
+  "devDependencies": {    
+    "@opennextjs/cloudflare": "1.20.17",
+    "wrangler": "4.161.0",
     "@types/node": "^22.10.0",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
